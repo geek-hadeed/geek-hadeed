@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geek-hadeed
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning TypeScript , JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I Am A Student At GIAIC
 - 📫 Contact Me : 03322965814
 - 😄 Pronouns: Geek
 - ⚡ Fun fact: roaster
