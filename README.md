@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @geek-hadeed
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning TypeScript , JavaScript
+- 👋 Hi, I’m Hadeed Hussain, 
+- 👀 I’m interested in Programming, 
+- 🌱 I’m currently learning TypeScript ,     JavaScript
 - 💞️ I Am A Student At GIAIC
-- 📫 Contact Me : 03322965814
+- 📫 You Can Contact Me : 03322965814
 - 😄 Pronouns: Geek
 - ⚡ Fun fact: roaster
 
