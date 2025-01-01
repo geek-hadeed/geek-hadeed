@@ -1,3 +1,6 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+Name+Is+Hadeed+Hussain;I+Am+A+Front+End+Developer;Currently+I+am+Learning+Full+Stack+Development" alt="Typing SVG" /></a>
+
+
 # 💫 About Me:
 👋 Hi, I’m Hadeed Hussain,<br>👀 I’m interested in Programming,<br>🌱 I've Learned HTML , CSS , TypeScript And JavaScript<br>💞️ Currently I am Doing modern Web and App Development At SMIT <br>📫 You Can Contact Me On : 03322965814<br>😄 Pronouns: Geek
 
