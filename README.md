@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4500&pause=700&color=0751F7&background=E2F6D700&center=true&width=800&lines=My+Name+Is+Hadeed+Hussain;I+Am+A+Front+End+Developer;Currently+I+am+Learning+Full+Stack+Development" alt="Typing SVG" /></a>
 
 # 💫 About Me:
-👋 Hi, I’m Hadeed Hussain,<br>👀 I’m interested in Programming,<br>🌱 I've Learned HTML , CSS , TypeScript And JavaScript<br>💞️ Currently I am Doing modern Web and App Development At SMIT <br>📫 You Can Contact Me On : <a href="https://wa.link/s4t4e5"> +923322965814 </a> <br>😄 Pronouns: Geek
+👋 Hi, I’m Hadeed Hussain,<br>👀 I’m interested in Programming,<br>🌱 I've Learned HTML , CSS , TypeScript And JavaScript<br>💞️ Currently I am Doing modern Web and App Development At SMIT <br>📫 You Can Contact Me On : <a href="https://wa.link/8nr1tv"> +923322965814 </a> <br>😄 Pronouns: Geek
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/BDsujyfa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hadeed.hussa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geek_had.eed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hadeed-hussain) 
