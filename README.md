@@ -42,8 +42,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hadeedhussainmemon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 😂 Random Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hadeedhussainmemon&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
